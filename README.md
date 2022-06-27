@@ -1,2 +1,1 @@
-test:
-:
+I guess all the necessary notes can be found at https://git.code.tencent.com/pipiyu/CodeNote lol
